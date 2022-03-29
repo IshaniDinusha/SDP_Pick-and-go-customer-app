@@ -18,7 +18,7 @@ class PickNGo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PickNGo',
+      title: 'PickNGoAPP',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         scaffoldBackgroundColor: Colors.white,
